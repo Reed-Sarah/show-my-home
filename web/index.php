@@ -1,5 +1,2 @@
 <?php
-
-  phpinfo();
-
-?>
+include "views/home.php";
