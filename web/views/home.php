@@ -8,12 +8,12 @@
 </head>
 <body>
     
-<?php require $_SERVER['DOCUMENT_ROOT'] . '/web/snippets/header.php'; ?> 
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/snippets/header.php'; ?> 
 <main>
   <h2>Your listings</h2>
    
       </main>
-   <?php require $_SERVER['DOCUMENT_ROOT'] . '/web/snippets/footer.php'; ?> 
+   <?php require $_SERVER['DOCUMENT_ROOT'] . '/snippets/footer.php'; ?> 
 
 </body>
 </html><?php if (isset($_SESSION['message'])) {
