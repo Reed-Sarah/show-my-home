@@ -10,7 +10,7 @@
     
 <?php require $_SERVER['DOCUMENT_ROOT'] . '/web/snippets/header.php'; ?> 
 <main>
-  
+  <h2>Your listings</h2>
    
       </main>
    <?php require $_SERVER['DOCUMENT_ROOT'] . '/web/snippets/footer.php'; ?> 
