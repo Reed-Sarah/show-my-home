@@ -190,7 +190,7 @@ if($changePassword === 1){
       break;
     default:
    
-    include '../views/manage-account.php';
+    include '../views/login.php';
   exit;
     break;
    }
